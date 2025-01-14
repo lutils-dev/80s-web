@@ -1,0 +1,44 @@
+{
+  "common": {
+    "next": "Next",
+    "loading": "Loading..."
+  },
+  "leftSidebar": {
+    "home": "Home"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "signIn": {
+      "title": "Sign In",
+      "button": "Sign In",
+      "error": "Invalid email or password",
+      "oauthError": "OAuth sign-in failed",
+      "facebookButton": "Sign in with Facebook",
+      "googleButton": "Sign in with Google",
+      "noAccount": "Don't have an account? Sign up"
+    },
+    "signUp": {
+      "title": "Sign Up",
+      "submit": "Sign Up",
+      "error": "Sign up failed",
+      "stepError": "Error in current step",
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "dob": "Date of Birth",
+      "gender": "Gender",
+      "genderRequired": "Gender is required",
+      "selectGender": "Select gender",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "oauthCallback": {
+      "loading": "Completing sign in..."
+    }
+  }
+}

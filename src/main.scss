@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-primary-gradient {
+    @apply bg-gradient-auth from-auth-light-from to-auth-light-to dark:from-auth-dark-from dark:to-auth-dark-to;
+  }
+}
